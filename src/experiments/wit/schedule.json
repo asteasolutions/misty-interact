@@ -1,0 +1,110 @@
+[
+  {
+    "start": "10:00",
+    "eventName": "Grand Opening",
+    "eventType": "intro",
+    "speaker": "Boyan Sheytanov"
+  },
+  {
+    "start": "10:15",
+    "eventName": "Intelligent Question Answering Using the Wisdom of the Crowd",
+    "eventType": "presentation",
+    "speaker": "Preslav Nakov"
+  },
+  {
+    "start": "11:00",
+    "eventName": "Doing Machine Learning Software",
+    "eventType": "presentation",
+    "speaker": "Ivaylo Strandjev"
+  },
+  {
+    "start": "11:30",
+    "eventName": "Coffee break",
+    "eventType": "break",
+    "speaker": "none"
+  },
+  {
+    "start": "12:00",
+    "eventName": "How to release daily",
+    "eventType": "presentation",
+    "speaker": "Damyan Dimitrov"
+  },
+  {
+    "start": "12:30",
+    "eventName": "React-Angular-Vue Architecture Geek Out",
+    "eventType": "presentation",
+    "speaker": "Alexander Vakrilov"
+  },
+  {
+    "start": "13:00",
+    "eventName": "So, what exactly do you do?",
+    "eventType": "presentation",
+    "speaker": "Anton Stoychev"
+  },
+  {
+    "start": "13:30",
+    "eventName": "Lunch",
+    "eventType": "break",
+    "speaker": "none"
+  },
+  {
+    "start": "14:30",
+    "eventName": "CSS Challenge",
+    "eventType": "game",
+    "speaker": "none"
+  },
+  {
+    "start": "15:00",
+    "eventName": "The 7-year odyssey of an authorization mechanism",
+    "eventType": "presentation",
+    "speaker": "Veliko Velikov and Kiril Kalchev"
+  },
+  {
+    "start": "15:30",
+    "eventName": "The magic of minimalism",
+    "eventType": "presentation",
+    "speaker": "Ianis Vasilev"
+  },
+  {
+    "start": "16:00",
+    "eventName": "Coffee break",
+    "eventType": "break",
+    "speaker": "none"
+  },
+  {
+    "start": "16:30",
+    "eventName": "What is a (fictional) world?",
+    "eventType": "presentation",
+    "speaker": "Alexander Popov"
+  },
+  {
+    "start": "17:00",
+    "eventName": "UI and interaction in virtual reality",
+    "eventType": "presentation",
+    "speaker": "Dimo Chotrov"
+  },
+  {
+    "start": "17:30",
+    "eventName": "Bullshit magic - misusing statistics",
+    "eventType": "presentation",
+    "speaker": "Ekaterina Mihaylova"
+  },
+  {
+    "start": "18:00",
+    "eventName": "Casual Closing",
+    "eventType": "outro",
+    "speaker": "Boyan Sheytanov"
+  },
+  {
+    "start": "18:15",
+    "eventName": "Cocktail party",
+    "eventType": "party",
+    "speaker": "none"
+  },
+  {
+    "start": "20:00",
+    "eventName": "The End",
+    "eventType": "end",
+    "speaker": "none"
+  }
+]

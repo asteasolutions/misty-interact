@@ -1,0 +1,24 @@
+{
+  "name": "interact",
+  "version": "1.0.0",
+  "description": "A server-side app which lets you interact with a Misty robot.",
+  "main": "src/experiments/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r ./env.js src/experiments/index.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^2.3.1",
+    "@google-cloud/text-to-speech": "^0.5.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "form-data": "^2.3.3",
+    "lodash": "^4.17.11",
+    "misty-client": "https://github.com/asteasolutions/misty-client.git",
+    "moment": "^2.24.0",
+    "node-wit": "^5.0.0",
+    "pb-node": "^2.0.1",
+    "simple-statistics": "^7.0.2"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+gapi-credentials.json
+.env
+.DS_Store
+yarn-error.log
