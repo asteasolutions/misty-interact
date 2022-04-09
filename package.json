@@ -16,7 +16,7 @@
     "form-data": "^2.3.3",
     "lodash": "^4.17.11",
     "misty-client": "https://github.com/asteasolutions/misty-client.git",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-wit": "^5.0.0",
     "pb-node": "^2.0.1",
     "simple-statistics": "^7.0.2"
